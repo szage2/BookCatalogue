@@ -1,0 +1,13 @@
+{
+  "name": "book_catalogue",
+  "version": "1.0.0",
+  "description": "Book catalogue",
+  "author": "Gerda Szabo <gerda.szabo.mail@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
