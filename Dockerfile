@@ -1,4 +1,4 @@
-FROM node:16.6-buster-slim
+FROM node:16.7-bullseye-slim
 WORKDIR /usr/src/app
 COPY bin /usr/src/app
 COPY package.json /usr/src/app
